@@ -72,7 +72,9 @@
 - ☕ Java es mi lenguaje de cabecera
 - 🎵 Programo escuchando música
 - 🏆 Boca es mi pasión de toda la vida
-- 🤖 si la IA fuera un pecado, yo seria un pecador
+- 🤖 Si la IA fuera un pecado, yo sería un pecador
+
+</details>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
@@ -96,11 +98,6 @@
 </a>
 
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
-
-  
-</details>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
@@ -154,14 +151,13 @@
 <summary><b>🧰 Herramientas (click para abrir)</b></summary>
 <br>
 
-`XAMPP` · `Git` · `GitHub` · `VS Code` · `laragon`
+`XAMPP` · `Git` · `GitHub` · `VS Code` · `Laragon`
 
 </details>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
 ## 📌 Proyectos destacados
-
 
 <div align="center">
 
@@ -183,12 +179,12 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=leandromoreno564-cloud&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FDB913&icon_color=0055A5&count_private=true" width="49%" alt="Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandromoreno564-cloud&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FDB913" width="40%" alt="Top lenguajes" />
+<img src="https://github-readme-stats.vercel.app/api?locale=es&username=leandromoreno564-cloud&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FDB913&icon_color=0055A5&count_private=true" width="49%" alt="Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?locale=es&username=leandromoreno564-cloud&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FDB913" width="40%" alt="Top lenguajes" />
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=leandromoreno564-cloud&theme=tokyonight&hide_border=true&background=0d1117&ring=FDB913&fire=FDB913&currStreakLabel=FDB913" width="70%" alt="Streak" />
+<img src="https://streak-stats.demolab.com?locale=es&user=leandromoreno564-cloud&theme=tokyonight&hide_border=true&background=0d1117&ring=FDB913&fire=FDB913&currStreakLabel=FDB913" width="70%" alt="Streak" />
 
 <br><br>
 
@@ -196,7 +192,7 @@
 
 </div>
 
-
+<!-- ═══════════ SERPIENTE (requiere el workflow .github/workflows/snake.yml) ═══════════ -->
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/leandromoreno564-cloud/leandromoreno564-cloud/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake" />
@@ -205,18 +201,19 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
-## 💬 Frase del día 
+## 💬 Frase del día
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="90%" alt="Frase" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4500&pause=1500&color=FDB913&center=true&vCenter=true&width=800&height=50&lines=%22El+%C3%BAnico+modo+de+hacer+un+gran+trabajo+es+amar+lo+que+haces%22;%22Primero+resuelve+el+problema.+Despu%C3%A9s+escribe+el+c%C3%B3digo%22;%22Los+grandes+proyectos+empiezan+con+una+l%C3%ADnea+de+c%C3%B3digo%22;%22Un+buen+programador+mira+a+ambos+lados+antes+de+cruzar+una+calle+de+un+solo+sentido%22" alt="Frases" />
 
-<br>
+<br><br>
 
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" width="70%" alt="Chiste de programadores" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=4500&pause=1500&color=0055A5&center=true&vCenter=true&width=800&height=40&lines=%F0%9F%98%82+Funciona+en+mi+m%C3%A1quina;%F0%9F%98%82+No+toques+nada+que+funciona;%F0%9F%98%82+99+bugs+en+el+c%C3%B3digo...+arreglo+uno...+127+bugs+en+el+c%C3%B3digo;%F0%9F%98%82+Programar+es+90%25+buscar+el+error+y+10%25+decir+%22%C2%BFqui%C3%A9n+escribi%C3%B3+esto%3F%22" alt="Chistes" />
 
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
 ## 🎵 Mi música
 
