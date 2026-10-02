@@ -41,27 +41,13 @@
 
 <table>
 <tr>
-<td width="55%">
+<td>
 
 - 🏢 **CEO de Valtrion S.R.L.** | Desarrollador de Software
 - 💻 Desarrollo aplicaciones web y proyectos de software a medida
 - 🌎 Disponible para proyectos a nivel **internacional**
 - 🌱 Siempre aprendiendo nuevas tecnologías
 - 📬 Contacto: **leandromoreno564@gmail.com**
-
-</td>
-<td width="45%">
-
-```js
-const leandro = {
-  rol: "CEO & Full Stack Developer",
-  empresa: "Valtrion S.R.L.",
-  pais: "Argentina 🇦🇷",
-  stack: ["Java", "Spring Boot", "React", "PHP", "Laravel"],
-  hincha: "Boca Juniors 💙💛",
-  disponible: true,
-};
-```
 
 </td>
 </tr>
