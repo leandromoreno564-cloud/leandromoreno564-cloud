@@ -72,7 +72,34 @@
 - ☕ Java es mi lenguaje de cabecera
 - 🎵 Programo escuchando música
 - 🏆 Boca es mi pasión de toda la vida
+- 🤖 si la IA fuera un pecado, yo seria un pecador
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
+
+## 💙 BOCA PASIÓN 💛
+
+<div align="center">
+
+<img src="https://github.com/user-attachments/assets/45e8cf14-be60-4e91-bf3d-75060b6a12de" width="260" alt="Ener Valencia" />
+
+<br><br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=800&color=FDB913&center=true&vCenter=true&width=500&height=45&lines=BOCA+%F0%9F%92%99%F0%9F%92%9B;BOCA+YO+TE+AMO+%F0%9F%92%99%F0%9F%92%9B" alt="Boca" />
+
+<br>
+
+<a href="https://open.spotify.com/search/Boca%20Yo%20Te%20Amo">
+<img src="https://img.shields.io/badge/%E2%96%B6_BOCA_YO_TE_AMO-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
+</a>
+<a href="https://www.youtube.com/results?search_query=boca+yo+te+amo">
+<img src="https://img.shields.io/badge/%E2%96%B6_Ver_en-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+</a>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
+
+  
 </details>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
@@ -127,7 +154,7 @@
 <summary><b>🧰 Herramientas (click para abrir)</b></summary>
 <br>
 
-`XAMPP` · `Git` · `GitHub` · `VS Code`
+`XAMPP` · `Git` · `GitHub` · `VS Code` · `laragon`
 
 </details>
 
@@ -135,7 +162,7 @@
 
 ## 📌 Proyectos destacados
 
-<!-- EDITAR: reemplazá "repo=" por el nombre de tus repositorios para mostrar tus proyectos reales -->
+
 <div align="center">
 
 <a href="https://github.com/leandromoreno564-cloud?tab=repositories">
@@ -169,7 +196,7 @@
 
 </div>
 
-<!-- ═══════════ SERPIENTE (requiere el workflow .github/workflows/snake.yml) ═══════════ -->
+
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/leandromoreno564-cloud/leandromoreno564-cloud/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake" />
@@ -178,7 +205,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
-## 💬 Frase del día (se actualiza sola)
+## 💬 Frase del día 
 
 <div align="center">
 
@@ -190,30 +217,6 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
-
-## 💙 BOCA PASIÓN 💛
-
-<div align="center">
-
-<img src="https://github.com/user-attachments/assets/45e8cf14-be60-4e91-bf3d-75060b6a12de" width="260" alt="Ener Valencia" />
-
-<br><br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=800&color=FDB913&center=true&vCenter=true&width=500&height=45&lines=BOCA+%F0%9F%92%99%F0%9F%92%9B;BOCA+YO+TE+AMO+%F0%9F%92%99%F0%9F%92%9B" alt="Boca" />
-
-<br>
-
-<a href="https://open.spotify.com/search/Boca%20Yo%20Te%20Amo">
-<img src="https://img.shields.io/badge/%E2%96%B6_BOCA_YO_TE_AMO-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
-</a>
-<a href="https://www.youtube.com/results?search_query=boca+yo+te+amo">
-<img src="https://img.shields.io/badge/%E2%96%B6_Ver_en-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-</a>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
 ## 🎵 Mi música
 
