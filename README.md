@@ -1,6 +1,6 @@
 <!-- ═══════════════ HEADER ANIMADO ═══════════════ -->
 <div align="center">
-
+<img src="https://raw.githubusercontent.com/leandromoreno564-cloud/leandromoreno564-cloud/main/assets/intro.svg" width="100%" alt="Intro" />
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,6,20&height=230&section=header&text=Leandro%20Moreno&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=CEO%20de%20Valtrion%20S.R.L.%20%E2%80%A2%20Full%20Stack%20Developer&descSize=20&descAlignY=58" width="100%" alt="Header" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=FDB913&center=true&vCenter=true&width=650&height=50&lines=Bienvenido+a+mi+perfil+%F0%9F%91%8B;CEO+de+Valtrion+S.R.L.+%F0%9F%9A%80;Desarrollador+Full+Stack+%F0%9F%92%BB;BOCA+YO+TE+AMO+%F0%9F%92%99%F0%9F%92%9B" alt="Typing SVG" />
