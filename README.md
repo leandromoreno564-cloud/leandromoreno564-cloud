@@ -75,7 +75,7 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=800&color=FDB913&center=true&vCenter=true&width=500&height=45&lines=BOCA+%F0%9F%92%99%F0%9F%92%9B;RIVER+%F0%9F%90%94" alt="Boca y River" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=800&color=FDB913&center=true&vCenter=true&width=500&height=45&lines=BOCA+%F0%9F%92%99%F0%9F%92%9B;RIVER BOTON+%F0%9F%90%94" alt="Boca y River" />
 
 <br>
 
