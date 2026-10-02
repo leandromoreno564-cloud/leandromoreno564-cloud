@@ -82,7 +82,20 @@
 
 <div align="center">
 
+<table>
+<tr>
+<td align="center" valign="middle">
+
 <img src="https://github.com/user-attachments/assets/45e8cf14-be60-4e91-bf3d-75060b6a12de" width="260" alt="Ener Valencia" />
+
+</td>
+<td align="center" valign="middle">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1500&color=FDB913&center=true&vCenter=true&width=420&height=150&multiline=true&repeat=false&lines=ENER+VALENCIA;EL+TERROR;DE+RACING" alt="El terror de Racing" />
+
+</td>
+</tr>
+</table>
 
 <br><br>
 
@@ -205,11 +218,11 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4500&pause=1500&color=FDB913&center=true&vCenter=true&width=800&height=50&lines=%22El+%C3%BAnico+modo+de+hacer+un+gran+trabajo+es+amar+lo+que+haces%22;%22Primero+resuelve+el+problema.+Despu%C3%A9s+escribe+el+c%C3%B3digo%22;%22Los+grandes+proyectos+empiezan+con+una+l%C3%ADnea+de+c%C3%B3digo%22;%22Un+buen+programador+mira+a+ambos+lados+antes+de+cruzar+una+calle+de+un+solo+sentido%22" alt="Frases" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=9000&pause=4500&color=FDB913&center=true&vCenter=true&width=1000&height=50&lines=El+%C3%BAnico+modo+de+hacer+un+gran+trabajo+es+amar+lo+que+haces;Primero+resuelve+el+problema%2C+despu%C3%A9s+escribe+el+c%C3%B3digo;Los+grandes+proyectos+empiezan+con+una+l%C3%ADnea+de+c%C3%B3digo;Un+buen+c%C3%B3digo+es+el+que+se+entiende+sin+explicaciones" alt="Frases" />
 
 <br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=4500&pause=1500&color=0055A5&center=true&vCenter=true&width=800&height=40&lines=%F0%9F%98%82+Funciona+en+mi+m%C3%A1quina;%F0%9F%98%82+No+toques+nada+que+funciona;%F0%9F%98%82+99+bugs+en+el+c%C3%B3digo...+arreglo+uno...+127+bugs+en+el+c%C3%B3digo;%F0%9F%98%82+Programar+es+90%25+buscar+el+error+y+10%25+decir+%22%C2%BFqui%C3%A9n+escribi%C3%B3+esto%3F%22" alt="Chistes" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=9000&pause=4500&color=0055A5&center=true&vCenter=true&width=1000&height=40&lines=Funciona+en+mi+m%C3%A1quina;No+toques+lo+que+funciona;99+bugs+en+el+c%C3%B3digo...+arreglo+uno...+127+bugs+en+el+c%C3%B3digo;Programar+es+10%25+escribir+c%C3%B3digo+y+90%25+buscar+el+error" alt="Chistes" />
 
 </div>
 
