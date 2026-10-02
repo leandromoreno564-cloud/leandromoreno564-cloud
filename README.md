@@ -1,11 +1,11 @@
-<!-- ═══════════ INTRO: VIRUS → CAISTE → BANDERA ARGENTINA ═══════════ -->
+
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/leandromoreno564-cloud/leandromoreno564-cloud/main/assets/intro.svg" width="100%" alt="Esta computadora tiene virus... CAISTE... Argentina" />
 
 </div>
 
-<!-- ═══════════ HEADER ═══════════ -->
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,6,20&height=230&section=header&text=Leandro%20Moreno&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=CEO%20de%20Valtrion%20S.R.L.%20%E2%80%A2%20Full%20Stack%20Developer&descSize=20&descAlignY=58" width="100%" alt="Header" />
@@ -25,7 +25,7 @@
 
 <br><br>
 
-<!-- ═══════════ MENÚ DE NAVEGACIÓN ═══════════ -->
+
 <a href="#-sobre-mí"><img src="https://img.shields.io/badge/Sobre_mí-0055A5?style=flat-square" /></a>
 <a href="#-qué-hago"><img src="https://img.shields.io/badge/Qué_hago-0055A5?style=flat-square" /></a>
 <a href="#️-tecnologías-y-herramientas"><img src="https://img.shields.io/badge/Tecnologías-0055A5?style=flat-square" /></a>
@@ -37,7 +37,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
-## 🚀 Sobre mí
+##  Sobre mí
 
 <table>
 <tr>
@@ -54,7 +54,7 @@
 </table>
 
 <details>
-<summary><b>🎯 Mis objetivos (click para abrir)</b></summary>
+<summary><b> Mis objetivos (click para abrir)</b></summary>
 <br>
 
 - Hacer crecer **Valtrion S.R.L.** con productos y servicios de software de calidad
@@ -65,7 +65,7 @@
 </details>
 
 <details>
-<summary><b>⚡ Datos curiosos (click para abrir)</b></summary>
+<summary><b> Datos curiosos (click para abrir)</b></summary>
 <br>
 
 - 💙💛 Soy de Boca y lo llevo en el código
@@ -126,7 +126,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
-## 🛠️ Tecnologías y Herramientas
+##  Tecnologías y Herramientas
 
 <div align="center">
 
@@ -153,7 +153,7 @@
 </details>
 
 <details>
-<summary><b>🎨 Frontend (click para abrir)</b></summary>
+<summary><b> Frontend (click para abrir)</b></summary>
 <br>
 
 `JavaScript` · `React` · `HTML` · `CSS`
@@ -161,7 +161,7 @@
 </details>
 
 <details>
-<summary><b>🧰 Herramientas (click para abrir)</b></summary>
+<summary><b> Herramientas (click para abrir)</b></summary>
 <br>
 
 `XAMPP` · `Git` · `GitHub` · `VS Code` · `Laragon`
@@ -170,7 +170,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
-## 📌 Proyectos destacados
+##  Proyectos destacados
 
 <div align="center">
 
@@ -188,7 +188,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
-## 📊 Estadísticas en GitHub
+##  Estadísticas en GitHub
 
 <div align="center">
 
@@ -205,7 +205,7 @@
 
 </div>
 
-<!-- ═══════════ SERPIENTE (requiere el workflow .github/workflows/snake.yml) ═══════════ -->
+
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/leandromoreno564-cloud/leandromoreno564-cloud/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake" />
@@ -214,7 +214,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
-## 💬 Frase del día
+##  Frase del día
 
 <div align="center">
 
@@ -228,7 +228,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
-## 🎵 Mi música
+## Musica motivadora de Valtrion 
 
 <div align="center">
 
